@@ -1,5 +1,5 @@
 # EventMaster
-EventMaster, en applikasjon laget i Kotlin.
+EventMaster, en android applikasjon laget i Kotlin.
 Denne applikasjonen ble laget for mobilapplikasjonsfaget.
 
 I denne applikasjonen kan man:
