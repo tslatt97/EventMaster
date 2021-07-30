@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723742002070",
+    "firebase_url": "https://eventmaster-66060.firebaseio.com",
+    "project_id": "eventmaster-66060",
+    "storage_bucket": "eventmaster-66060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723742002070:android:a04c675b5e9ac86bfeebb7",
+        "android_client_info": {
+          "package_name": "com.example.eventmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723742002070-96mjhbi8g8fnp2c636mma81jtuvhtkme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventmaster",
+            "certificate_hash": "3965b227b90d6c57c3680b5267bd0c96e1049a02"
+          }
+        },
+        {
+          "client_id": "723742002070-o1bufoqmmah58b7psmlai291v502khk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPcPsOkUkLnUECJzTfkdkjsGxP7jnHSL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723742002070-o1bufoqmmah58b7psmlai291v502khk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
